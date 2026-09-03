@@ -1,0 +1,27 @@
+name: Update WakaTime stats
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  waka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render coding stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
+          BLOCKS: "░▒▓█"
+          COMMIT_MESSAGE: "chore: update wakatime stats"

@@ -1,0 +1,27 @@
+name: Update latest articles
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  articles:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts from sumonselim.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.sumonselim.com/rss.xml"
+          max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "- `$date` &nbsp; [$title]($url)$newline"
+          commit_message: "chore: update latest articles"
+          committer_username: github-actions[bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
