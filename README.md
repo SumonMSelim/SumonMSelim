@@ -118,15 +118,15 @@ $ cat beyond-code.txt
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2026 - To: 03 September 2026
+From: 28 August 2026 - To: 04 September 2026
 
-Total Time: 64 hrs 47 mins
+Total Time: 63 hrs 43 mins
 
-Markdown      22 hrs 15 mins        ████████▒░░░░░░░░░░░░░░░░   33.22 %
-Go            14 hrs 56 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-TypeScript    11 hrs 15 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Python        3 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Bash          2 hrs 18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Markdown      22 hrs 11 mins        ████████░░░░░░░░░░░░░░░░░   32.59 %
+Go            16 hrs 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.61 %
+TypeScript    8 hrs 46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Other         4 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Python        3 hrs 33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
