@@ -65,7 +65,7 @@ $ cat beyond-code.txt
 <a href="https://www.credly.com/badges/daf653d9-1a1d-4f9e-b989-c1797092cbea" title="AWS Certified Developer – Associate · issued 2023-08-06"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/e1a271d3-aad9-4269-a613-3df495824637" title="AWS Certified Solutions Architect – Associate · issued 2023-05-09"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"></a>
 
-<sub>11 badges · synced weekly from Credly · updated 2026-09-03 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
+<sub>11 badges · synced weekly from Credly · updated 2026-09-07 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
 <!-- CREDLY:END -->
 
 </div>
