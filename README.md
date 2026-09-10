@@ -25,7 +25,7 @@
 ```bash
 $ whoami
 Senior Software Engineer
-Master's student (Security and Network Engineering), University of Amsterdam
+MSc. student (Security and Network Engineering), University of Amsterdam
 11 years of professional experience
 
 $ cat skills.txt
