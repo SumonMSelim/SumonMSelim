@@ -113,22 +113,15 @@ $ cat beyond-code.txt
 
 ## `>_ ./wakatime`
 
-<!-- Auto-updated daily by .github/workflows/waka.yml -->
-<!--START_SECTION:waka-->
+<div align="center">
 
-```txt
-From: 02 September 2026 - To: 09 September 2026
+<!-- Served live from the public WakaTime profile · no workflow needed -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=306f904d-42f5-43e6-bb95-1e979d459985&layout=compact&langs_count=5&hide_border=false&bg_color=0d0d0d&title_color=00e545&text_color=e6e6e6&border_color=009938&custom_title=wakatime%20%C2%B7%20last%207%20days">
+  <img height="165" alt="WakaTime · coding time by language, last 7 days" src="https://github-stats-extended.vercel.app/api/wakatime?username=306f904d-42f5-43e6-bb95-1e979d459985&layout=compact&langs_count=5&hide_border=false&bg_color=fafafa&title_color=157f3c&text_color=1f1f1f&border_color=70c28e&custom_title=wakatime%20%C2%B7%20last%207%20days">
+</picture>
 
-Total Time: 51 hrs 45 mins
-
-Markdown     17 hrs 11 mins        ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-TypeScript   15 hrs 14 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Go           7 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Other        5 hrs 49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Bash         3 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-```
-
-<!--END_SECTION:waka-->
+</div>
 
 ## `>_ ./contributions`
 
