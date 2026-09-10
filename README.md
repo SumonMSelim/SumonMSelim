@@ -2,29 +2,26 @@
   Theme tokens (mirrors sumonselim.com src/index.css)
   dark : bg 0d0d0d · fg e6e6e6 · accent 00e545 · border 009938 · muted 8a8a8a
   light: bg fafafa · fg 1f1f1f · accent 157f3c · border 70c28e · muted 616161
-
-  Stats host: replace STATS_HOST below with your Vercel deployment of
-  github-readme-stats (see docs/SETUP.md). Public fallback: github-readme-stats.vercel.app
 -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00E545&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Homo+sapiens+by+birth%3B;Software+engineer+by+profession%3B;Traveler+%26+entrepreneur+by+passion%3B">
-  <img alt="Homo sapiens by birth; Software engineer by profession; Traveler & entrepreneur by passion;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=157F3C&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Homo+sapiens+by+birth%3B;Software+engineer+by+profession%3B;Traveler+%26+entrepreneur+by+passion%3B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=400&color=00E545&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Homo+sapiens+by+birth%3B;Software+engineer+by+profession%3B;Traveler+%26+entrepreneur+by+passion%3B">
+  <img alt="Homo sapiens by birth; Software engineer by profession; Traveler & entrepreneur by passion;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=400&color=157F3C&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Homo+sapiens+by+birth%3B;Software+engineer+by+profession%3B;Traveler+%26+entrepreneur+by+passion%3B">
 </picture>
 
 <sub><code># Muhammad Sumon Molla Selim</code></sub>
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/sumonselim.com-0d0d0d?style=flat-square&logo=astro&logoColor=00e545)](https://www.sumonselim.com)
-[![LinkedIn](https://img.shields.io/badge/in%2Fsumonmselim-0d0d0d?style=flat-square&labelColor=0d0d0d&color=00e545)](https://linkedin.com/in/sumonmselim)
-[![ADPList](https://img.shields.io/badge/ADPList-0d0d0d?style=flat-square&logo=googlemeet&logoColor=00e545)](https://adplist.org/mentors/muhammad-sumon-molla-selim)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d0d0d?style=flat-square&logo=stackoverflow&logoColor=00e545)](https://stackoverflow.com/users/1334933/)
-[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-0d0d0d?style=flat-square&logo=speakerdeck&logoColor=00e545)](https://speakerdeck.com/sumonmselim)
-[![Sessionize](https://img.shields.io/badge/Sessionize-0d0d0d?style=flat-square&logo=sessionize&logoColor=00e545)](https://sessionize.com/sumonmselim)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=00e545)](mailto:sumonmselim@gmail.com)
+[![Website](https://img.shields.io/badge/sumonselim.com-0d0d0d?style=flat-square&logo=astro)](https://www.sumonselim.com)
+[![LinkedIn](https://img.shields.io/badge/in%2Fsumonmselim-0d0d0d?style=flat-square)](https://linkedin.com/in/sumonmselim)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d0d0d?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/1334933/)
+[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-0d0d0d?style=flat-square&logo=speakerdeck)](https://speakerdeck.com/sumonmselim)
+[![Sessionize](https://img.shields.io/badge/Sessionize-0d0d0d?style=flat-square&logo=sessionize)](https://sessionize.com/sumonmselim)
+[![ADPList](https://img.shields.io/badge/ADPList-0d0d0d?style=flat-square&logo=adplist)](https://adplist.org/mentors/muhammad-sumon-molla-selim)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail)](mailto:sumonmselim@gmail.com)
 
 </div>
 
@@ -32,7 +29,9 @@
 
 ```bash
 $ whoami
-Senior Software Engineer · Netherlands · 10+ years of experience
+Senior Software Engineer
+Master's student (Security and Network Engineering), University of Amsterdam
+11 years of professional experience
 
 $ cat skills.txt
 backend    : Go · Java · PHP · Python
@@ -40,8 +39,9 @@ cloud      : AWS · GCP · Azure · Kubernetes · Docker · Terraform
 practice   : platform engineering · DevOps automation · large-scale cloud transformations
 
 $ cat community.txt
-AWS Community Builder · HashiCorp User Group Organizer · Top 10 ADPList Mentor (DevOps)
+AWS Community Builder/Student Builder Group Leader · HashiCorp User Group Organizer
 Founder of Klassroom.xyz — education platform serving 18,000+ learners
+Top 50 ADPList Mentor (DevOps)
 
 $ cat beyond-code.txt
 50+ countries visited · One Young World Ambassador · Yunus & Youth Fellow
@@ -65,7 +65,7 @@ $ cat beyond-code.txt
 <a href="https://www.credly.com/badges/daf653d9-1a1d-4f9e-b989-c1797092cbea" title="AWS Certified Developer – Associate · issued 2023-08-06"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/e1a271d3-aad9-4269-a613-3df495824637" title="AWS Certified Solutions Architect – Associate · issued 2023-05-09"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"></a>
 
-<sub>11 badges · synced weekly from Credly · updated 2026-09-07 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
+<sub>11 badges · last updated 2026-09-07 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
 <!-- CREDLY:END -->
 
 </div>
@@ -89,12 +89,12 @@ $ cat beyond-code.txt
 
 <!-- personal · SumonMSelim -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://STATS_HOST/api?username=sumonmselim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0d0d&title_color=00e545&icon_color=00e545&text_color=e6e6e6&border_color=009938&custom_title=personal%20%C2%B7%20SumonMSelim">
-  <img height="165" alt="GitHub stats · personal" src="https://STATS_HOST/api?username=sumonmselim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=fafafa&title_color=157f3c&icon_color=157f3c&text_color=1f1f1f&border_color=70c28e&custom_title=personal%20%C2%B7%20SumonMSelim">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=sumonmselim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0d0d&title_color=00e545&icon_color=00e545&text_color=e6e6e6&border_color=009938&custom_title=personal%20%C2%B7%20SumonMSelim">
+  <img height="165" alt="GitHub stats · personal" src="https://github-stats-extended.vercel.app/api?username=sumonmselim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=fafafa&title_color=157f3c&icon_color=157f3c&text_color=1f1f1f&border_color=70c28e&custom_title=personal%20%C2%B7%20SumonMSelim">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://STATS_HOST/api/top-langs/?username=sumonmselim&layout=compact&langs_count=8&hide_border=false&bg_color=0d0d0d&title_color=00e545&text_color=e6e6e6&border_color=009938">
-  <img height="165" alt="Top languages" src="https://STATS_HOST/api/top-langs/?username=sumonmselim&layout=compact&langs_count=8&hide_border=false&bg_color=fafafa&title_color=157f3c&text_color=1f1f1f&border_color=70c28e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sumonmselim&layout=compact&langs_count=8&hide_border=false&bg_color=0d0d0d&title_color=00e545&text_color=e6e6e6&border_color=009938">
+  <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sumonmselim&layout=compact&langs_count=8&hide_border=false&bg_color=fafafa&title_color=157f3c&text_color=1f1f1f&border_color=70c28e">
 </picture>
 
 <br>
@@ -108,8 +108,6 @@ $ cat beyond-code.txt
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=xfab-sumon&background=0d0d0d&border=009938&stroke=009938&ring=00e545&fire=00e545&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=00e545&sideLabels=00e545&dates=8a8a8a&hide_border=false">
   <img height="165" alt="Streak · work (xfab-sumon)" src="https://streak-stats.demolab.com?user=xfab-sumon&background=fafafa&border=70c28e&stroke=70c28e&ring=157f3c&fire=157f3c&currStreakNum=1f1f1f&sideNums=1f1f1f&currStreakLabel=157f3c&sideLabels=157f3c&dates=616161&hide_border=false">
 </picture>
-
-<sub>left: personal <code>@SumonMSelim</code> · right: work <code>@xfab-sumon</code></sub>
 
 </div>
 

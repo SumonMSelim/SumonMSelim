@@ -2,12 +2,9 @@
 
 One-time steps that need account access (never automated here).
 
-## 1. Self-host github-readme-stats on Vercel
+## 1. GitHub stats cards
 
-1. Fork https://github.com/anuraghazra/github-readme-stats
-2. Create a GitHub PAT (fine-grained, no scopes needed for public data; add `read:user` + `repo` for `count_private=true`).
-3. Import the fork in Vercel. Set env var `PAT_1=<token>`. Deploy.
-4. Replace every `STATS_HOST` in `README.md` with your Vercel domain, e.g. `github-readme-stats-sumonmselim.vercel.app`.
+Served by the public instance of https://github.com/stats-organization/github-stats-extended (`github-stats-extended.vercel.app`) — API-compatible with github-readme-stats, so the README uses it directly. To self-host instead: fork that repo, deploy to Vercel with a GitHub PAT in `PAT_1` (`read:user` + `repo` for `count_private=true`), then replace every `github-stats-extended.vercel.app` in `README.md` with your domain.
 
 ## 2. WakaTime
 
