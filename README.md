@@ -32,11 +32,11 @@
 
 ```bash
 $ whoami
-Senior Software Engineer · Netherlands · 10+ years across Europe & Asia
+Senior Software Engineer · Netherlands · 10+ years of experience
 
 $ cat skills.txt
-backend    : Java · PHP · Go · Python
-cloud      : AWS · GCP · Kubernetes · Docker · Terraform
+backend    : Go · Java · PHP · Python
+cloud      : AWS · GCP · Azure · Kubernetes · Docker · Terraform
 practice   : platform engineering · DevOps automation · large-scale cloud transformations
 
 $ cat community.txt
@@ -73,7 +73,8 @@ $ cat beyond-code.txt
 ## `>_ ./articles`
 
 <!-- Auto-updated daily from https://www.sumonselim.com/rss.xml by .github/workflows/blog-posts.yml -->
-<!-- BLOG-POST-LIST:START -->- `2026-08-06` &nbsp; [Timothy Part 26: One Terminal Event and Five Ways to Lose It](https://www.sumonselim.com/timothy-part26-one-terminal-event-and-five-ways-to-lose-it)
+<!-- BLOG-POST-LIST:START -->
+- `2026-08-06` &nbsp; [Timothy Part 26: One Terminal Event and Five Ways to Lose It](https://www.sumonselim.com/timothy-part26-one-terminal-event-and-five-ways-to-lose-it)
 - `2026-08-05` &nbsp; [Timothy Part 25: Routes as Roles, Not Names](https://www.sumonselim.com/timothy-part25-routes-as-roles-not-names)
 - `2026-08-04` &nbsp; [Timothy Part 24: An Orange T and a One-Line Install](https://www.sumonselim.com/timothy-part24-an-orange-t-and-a-one-line-install)
 - `2026-08-03` &nbsp; [Timothy Part 23: Hand-Built Charts and a Faster CI](https://www.sumonselim.com/timothy-part23-hand-built-charts-and-a-faster-ci)

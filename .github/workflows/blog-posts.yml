@@ -21,7 +21,7 @@ jobs:
           feed_list: "https://www.sumonselim.com/rss.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "- `$date` &nbsp; [$title]($url)$newline"
+          template: "$newline- `$date` &nbsp; [$title]($url)$newline"
           commit_message: "chore: update latest articles"
           committer_username: github-actions[bot]
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
