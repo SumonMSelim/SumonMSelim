@@ -46,9 +46,7 @@ $ cat beyond-code.txt
 
 ## `>_ ./certifications`
 
-
-
-
+<!-- CREDLY:START -->
 
 
 
@@ -65,6 +63,7 @@ $ cat beyond-code.txt
 ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 11 badges · last updated 2026-09-07 · [verify on Credly →](https://www.credly.com/users/muhammad-sumon-molla-selim/badges)
+<!-- CREDLY:END -->
 
 
 
