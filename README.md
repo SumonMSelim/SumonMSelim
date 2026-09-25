@@ -71,15 +71,15 @@ $ cat beyond-code.txt
 
 <!-- Auto-updated daily from https://www.sumonselim.com/rss.xml by .github/workflows/blog-posts.yml -->
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-24` &nbsp; [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 3&rpar;: Holds, Payments, and the Slow Path](https://www.sumonselim.com/seat-reservation-part3-holds-payments-and-the-slow-path)
+
+- `2026-09-22` &nbsp; [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 2&rpar;: Never Sell a Seat Twice](https://www.sumonselim.com/seat-reservation-part2-never-sell-a-seat-twice)
+
+- `2026-09-21` &nbsp; [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 1&rpar;: The Architecture](https://www.sumonselim.com/seat-reservation-part1-architecture-for-a-flash-sale)
+
 - `2026-08-06` &nbsp; [Timothy Part 26: One Terminal Event and Five Ways to Lose It](https://www.sumonselim.com/timothy-part26-one-terminal-event-and-five-ways-to-lose-it)
 
 - `2026-08-05` &nbsp; [Timothy Part 25: Routes as Roles, Not Names](https://www.sumonselim.com/timothy-part25-routes-as-roles-not-names)
-
-- `2026-08-04` &nbsp; [Timothy Part 24: An Orange T and a One-Line Install](https://www.sumonselim.com/timothy-part24-an-orange-t-and-a-one-line-install)
-
-- `2026-08-03` &nbsp; [Timothy Part 23: Hand-Built Charts and a Faster CI](https://www.sumonselim.com/timothy-part23-hand-built-charts-and-a-faster-ci)
-
-- `2026-08-02` &nbsp; [Timothy Part 22: Connector Sensitivity and a Same-Day Bug](https://www.sumonselim.com/timothy-part22-connector-sensitivity-and-a-same-day-bug)
 <!-- BLOG-POST-LIST:END -->
 
 [all articles →](https://www.sumonselim.com/articles)
