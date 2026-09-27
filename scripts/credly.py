@@ -37,6 +37,7 @@ def thumb(image_url):
 
 
 def render(badges):
+    badges = [b for b in badges if b["badge_template"].get("type_category") == "Certification"]
     badges = sorted(badges, key=lambda b: b["issued_at_date"], reverse=True)
     rows = []
     for b in badges:
