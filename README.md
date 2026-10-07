@@ -88,14 +88,4 @@ $ cat beyond-code.txt
 
 
 
-## `>_ ./contributions`
-
-
-
-
-
-![Contribution snake](https://raw.githubusercontent.com/SumonMSelim/SumonMSelim/output/github-snake.svg)
-
-
-
 `$ exit`
