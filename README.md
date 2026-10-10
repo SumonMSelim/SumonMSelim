@@ -65,15 +65,15 @@ $ cat beyond-code.txt
 
 <!-- Auto-updated daily from https://www.sumonselim.com/rss.xml by .github/workflows/blog-posts.yml -->
 <!-- BLOG-POST-LIST:START -->
+- `2026-10-08` &nbsp; [Running a URL Shortener on Cloudflare for $0 &lpar;Part 4&rpar;: Operating It for Free](https://www.sumonselim.com/url-shortener-cloudflare-part4-operating-it-for-zero/)
+
+- `2026-10-07` &nbsp; [Running a URL Shortener on Cloudflare for $0 &lpar;Part 3&rpar;: Writes and Abuse on a Free Plan](https://www.sumonselim.com/url-shortener-cloudflare-part3-writes-and-abuse-on-a-free-plan/)
+
+- `2026-10-05` &nbsp; [Running a URL Shortener on Cloudflare for $0 &lpar;Part 2&rpar;: The Redirect at the Edge](https://www.sumonselim.com/url-shortener-cloudflare-part2-the-redirect-at-the-edge/)
+
+- `2026-10-04` &nbsp; [Running a URL Shortener on Cloudflare for $0 &lpar;Part 1&rpar;: The Architecture](https://www.sumonselim.com/url-shortener-cloudflare-part1-the-architecture/)
+
 - `2026-10-03` &nbsp; [Designing a URL Shortener in AWS &lpar;Part 3&rpar;: Writes, Clicks, and the Slow Path](https://www.sumonselim.com/url-shortener-part3-writes-clicks-and-the-slow-path/)
-
-- `2026-10-02` &nbsp; [Designing a URL Shortener in AWS &lpar;Part 2&rpar;: Never Serve a Dead Link](https://www.sumonselim.com/url-shortener-part2-never-serve-a-dead-link/)
-
-- `2026-10-01` &nbsp; [Designing a URL Shortener in AWS &lpar;Part 1&rpar;: The Architecture](https://www.sumonselim.com/url-shortener-part1-architecture-for-redirects/)
-
-- `2026-09-24` &nbsp; [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 3&rpar;: Holds, Payments, and the Slow Path](https://www.sumonselim.com/seat-reservation-part3-holds-payments-and-the-slow-path/)
-
-- `2026-09-22` &nbsp; [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 2&rpar;: Never Sell a Seat Twice](https://www.sumonselim.com/seat-reservation-part2-never-sell-a-seat-twice/)
 <!-- BLOG-POST-LIST:END -->
 
 [all articles →](https://www.sumonselim.com/articles)
