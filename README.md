@@ -47,14 +47,15 @@ $ cat beyond-code.txt
 ## `>_ ./certifications`
 
 <!-- CREDLY:START -->
+<a href="https://www.credly.com/badges/31542530-45b0-4c9f-b8c8-3269e154b24d" title="AWS Certified DevOps Engineer – Professional · issued 2026-11-06"><img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/0bfca631-a034-494b-b064-4ad736363b8a" title="Professional Cloud Architect Certification · issued 2026-09-16"><img src="https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="110" height="110"></a>
-<a href="https://www.credly.com/badges/27bd615c-46e0-403a-945c-f255b26585cd" title="AWS Certified SysOps Administrator – Associate · issued 2025-05-20"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/1fbe3376-02f4-47ef-be5b-67cb0441181e" title="AWS Certified SysOps Administrator – Associate · issued 2025-05-20"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/67dbe69d-303e-4c8d-9783-fa1e860b7232" title="HashiCorp Certified: Terraform Associate (003) · issued 2024-12-10"><img src="https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="110" height="110"></a>
-<a href="https://www.credly.com/badges/f82148df-7bf5-4eb2-a56a-a583cb0bb0b9" title="AWS Certified Cloud Practitioner · issued 2023-12-10"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110"></a>
-<a href="https://www.credly.com/badges/daf653d9-1a1d-4f9e-b989-c1797092cbea" title="AWS Certified Developer – Associate · issued 2023-08-06"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/8af12322-6165-4846-bca2-6064906a18fa" title="AWS Certified Cloud Practitioner · issued 2023-12-10"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/03d29e66-ebba-477d-a2e2-3477aa982afc" title="AWS Certified Developer – Associate · issued 2023-08-06"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/e1a271d3-aad9-4269-a613-3df495824637" title="AWS Certified Solutions Architect – Associate · issued 2023-05-09"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"></a>
 
-<sub>6 badges · synced weekly from Credly · updated 2026-11-02 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
+<sub>7 badges · synced weekly from Credly · updated 2026-11-09 · <a href="https://www.credly.com/users/muhammad-sumon-molla-selim/badges">verify on Credly →</a></sub>
 <!-- CREDLY:END -->
 
 
