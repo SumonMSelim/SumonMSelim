@@ -83,8 +83,6 @@ $ cat beyond-code.txt
 
 ![Streak · personal (SumonMSelim)](https://streak-stats.demolab.com?user=sumonmselim&background=fafafa&border=70c28e&stroke=70c28e&ring=157f3c&fire=157f3c&currStreakNum=1f1f1f&sideNums=1f1f1f&currStreakLabel=157f3c&sideLabels=157f3c&dates=616161&hide_border=false)
 
-![Weekly Coding Time](https://github-stats-extended.vercel.app/api/wakatime?username=306f904d-42f5-43e6-bb95-1e979d459985&layout=compact&langs_count=5&hide_border=false&bg_color=fafafa&title_color=157f3c&text_color=1f1f1f&border_color=70c28e&custom_title=Weekly%20Coding%20Time)
-
 ![@SumonMSelim](https://github-stats-extended.vercel.app/api?username=sumonmselim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=fafafa&title_color=157f3c&icon_color=157f3c&text_color=1f1f1f&border_color=70c28e&custom_title=SumonMSelim)
 
 
